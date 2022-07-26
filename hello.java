@@ -2,6 +2,6 @@ class test
 {
 public static void main(String srgs[])
 {
-System.out.println("Hello world");
+System.out.println("Hello Amdocs");
 }
 }
