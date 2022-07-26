@@ -1,4 +1,4 @@
-int main()
+publi class test
 {
 public static void main(String srgs[])
 {
